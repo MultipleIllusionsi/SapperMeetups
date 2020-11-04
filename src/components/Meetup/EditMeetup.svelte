@@ -50,7 +50,7 @@
       title,
       subtitle,
       description,
-      imageUrl:,
+      imageUrl,
       contactEmail: email,
       address,
     };
